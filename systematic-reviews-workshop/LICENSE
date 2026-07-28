@@ -1,0 +1,20 @@
+Systematic Reviews Workshop 2026 — teaching materials
+Copyright (c) 2026 King's College London workshop faculty
+
+These teaching materials (datasets, R scripts, task files and figures in this
+repository) are licensed under the Creative Commons Attribution 4.0
+International License (CC BY 4.0).
+
+You are free to share and adapt the material for any purpose, even commercially,
+provided you give appropriate credit.
+
+Full licence text: https://creativecommons.org/licenses/by/4.0/legalcode
+Summary: https://creativecommons.org/licenses/by/4.0/
+
+Notes on the data:
+- The BCG-and-TB aggregate counts are from Colditz et al., JAMA 1994, and are
+  reproduced as they appear in the metafor R package (dat.bcg). Trial counts are
+  facts and are not subject to copyright.
+- The zinc and magnesium datasets are simulated for teaching and do not
+  represent real trials.
+- Copyrighted source papers used elsewhere in the course are NOT included here.
