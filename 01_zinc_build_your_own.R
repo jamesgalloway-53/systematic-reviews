@@ -19,7 +19,10 @@ if (requireNamespace("rstudioapi", quietly = TRUE) && rstudioapi::isAvailable())
 # ============================================================
 library(metafor)
 
-raw <- read.csv("raw_zinc_diarrhoea_patient_level.csv", stringsAsFactors = FALSE)
+raw <- read.csv(
+  "/Users/beast/Library/CloudStorage/Dropbox/Claude/projects/systematic_review_training_day/github/systematic-reviews/raw_zinc_diarrhoea_patient_level.csv",
+  stringsAsFactors = FALSE
+)
 head(raw)
 
 # ---- 1. Build the 2x2 counts for every trial ---------------
